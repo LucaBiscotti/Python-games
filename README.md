@@ -1,6 +1,6 @@
 # Python-games
 
-Famous games remade in python:
+For now the games i remade are:
 
--Pong
--Snake
+- Pong
+- Snake
